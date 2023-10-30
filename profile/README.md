@@ -9,20 +9,19 @@
 
 ![Repositories at Valeska](https://github.com/ValeskaGames/.github/blob/main/valeskagamesrepo.png) 
 
-Добро пожаловать в Valeska Games!
+## Добро пожаловать в Valeska Games!
 
-В настоящее время сообщества с открытым исходным кодом совместно создают удивительное программное обеспечение, и если вы хотите присоединиться, то есть отличные возможности для создания хорошего первого выпуска.
-“Хороший первый выпуск” - это первая версия программного обеспечения, которая выпущена с высоким качеством и без ошибок.
-
+В настоящее время сообщества с открытым исходным кодом совместно создают удивительное программное обеспечение, и если вы хотите присоединиться, то есть отличные возможности для создания *хорошего первого выпуска.
 Чтобы получить полный доступ к нашим репозиториям, зарегистрируйте учетную запись на GitHub и присоединятесь к нам!
 
 После этого вы можете найти наши открытые репозитории здесь:
-* [DSVEnchanced](https://github.com/ValeskaGames/DSVEnchanced)
-* [SUDOKU-Telegram](https://github.com/ValeskaGames/SUDOKU-Telegram)
+* [Репозитории](https://github.com/orgs/ValeskaGames/repositories)
 
 Репозитории, требующие доступа "Developer":
-* [Future Racing](https://github.com/ValeskaGames/FutureRacing)
 * [Artemis](https://github.com/ValeskaGames/Artemis)
-* [ERAEXPERIENCE](https://github.com/ValeskaGames/Eraexperience)
+* [Future Racing](https://github.com/ValeskaGames/FutureRacing)
+* [ERAExperience](https://github.com/ValeskaGames/Eraexperience)
 
 (обратите внимание, что для работы некоторых ссылок вы должны войти в GitHub)
+
+*Хороший первый выпуск - это первая версия программного обеспечения, которая выпущена с высоким качеством и без ошибок.
