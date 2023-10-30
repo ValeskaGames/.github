@@ -7,7 +7,7 @@
 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![Repositories at Valeska](https://github.com/ValeskaGames/.github/blob/main/images/valeskagamesrepo,png) 
+![Repositories at Valeska](https://github.com/ValeskaGames/.github/valeskagamesrepo,png) 
 
 Добро пожаловать в Valeska Games!
 
