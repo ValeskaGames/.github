@@ -19,7 +19,7 @@
 Репозитории, требующие доступа "Developer"
 * [FutureRacing](https://github.com/ValeskaGames/FutureRacing)
 * [Artemis](https://github.com/ValeskaGames/Artemis)
-* [ERAExperience](https://github.com/ValeskaGames/Eraexperience)
+* [ExperienceVR](https://github.com/ValeskaGames/Eraexperience)
 
 (обратите внимание, что для работы некоторых ссылок вы должны войти в GitHub)
 
